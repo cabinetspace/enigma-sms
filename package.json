@@ -1,0 +1,10 @@
+{
+    "name": "enigma-sms",
+    "version": "1.0.0",
+    "author": "Dream",
+    "dependencies": {
+        "discord.js": "^14.7.1",
+        "dotenv": "^16.0.3",
+        "twilio": "^4.7.2"
+    }
+}
